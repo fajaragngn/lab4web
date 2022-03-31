@@ -118,6 +118,22 @@ footer {
 	color:#eee;
 }
 
+/* layout About */
+.about{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #e4e4e5; 
+	clear: both;
+	padding:35px;
+	line-height:25px; 
+}
+
+.avatar {
+  width: 110px;
+  border-radius: 50%;
+}
+
 /* box */
 .box { 
 	display:block;

@@ -97,7 +97,7 @@ Lalu lihat hasilnya
 
 ![img10-2!](assets/img/10/10-2.png)
 
-## 11
+## 11. Menambahkan Content Artikel
 
 ![img11!](assets/img/11/11.png)
 
@@ -116,7 +116,18 @@ Lalu lihat hasilnya
 => yang berisi form isian: nama, email, message, dll
 
 ## Jawab
-1. 
+1. Buat html seperti berikut
+
+![imgpraktikum1!](assets/img/praktikum/1.png)
+
+Kemudian tambahkan CSS.
+
+![imgpraktikum1!](assets/img/praktikum/1-1.png)
+
+Lalu lihat hasilnya
+
+![imgpraktikum1!](assets/img/praktikum/1-2.png)
+
 
 
 
