@@ -44,6 +44,10 @@ Kemudian tulis kode berikut, Lalu buka browser dan lihat hasilnya.
 
 ![img4-1!](assets/img/4/4-1.png)
 
+Kemudian tambahkan kode CSS untuk membuat layoutnya.
+
+![img4-2!](assets/img/4/4-2.png)
+
 
 
 
