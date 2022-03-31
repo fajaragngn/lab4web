@@ -67,6 +67,18 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
 ![img7!](assets/img/7/7.png)
 
+## 8. Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+
+![img8!](assets/img/8/8.png)
+
+Kemudian tambahkan CSS
+
+![img8-1!](assets/img/8/8-1.png)
+
+Lalu lihat hasilnya
+
+![img8-2!](assets/img/8/8-2.png)
 
 
 
