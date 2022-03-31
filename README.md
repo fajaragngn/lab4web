@@ -33,6 +33,15 @@ Selanjutnya buka browser dan refresh kembali.
 
 ![img3-2!](assets/img/3/3-2.png)
 
+## 4. Membuat Layout Sederhana
+Kita akan membuat layout web sederhana seperti gambar berikut. (tertera di modul praktikum)
+
+Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css
+
+![img4!](assets/img/4/4.png)
+
+
+
 
 
 
