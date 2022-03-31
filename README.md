@@ -93,6 +93,10 @@ Kemudian tambahkan CSS.
 
 ![img10-1!](assets/img/10/10-1.png)
 
+Lalu lihat hasilnya
+
+![img10-2!](assets/img/10/10-2.png)
+
 
 
 
