@@ -136,9 +136,11 @@ Lalu lihat hasilnya
 
 	![imgpraktikum2!](assets/img/praktikum/2-1.png)
 
+	![imgpraktikum2!](assets/img/praktikum/2-2.png)
+
 	Lalu lihat hasilnya
 
-	![imgpraktikum2!](assets/img/praktikum/2-2.png)
+	![imgpraktikum2!](assets/img/praktikum/2-3.png)
 
 
 
