@@ -53,6 +53,13 @@ Kemudian selanjutnya mengatur navigasi, Lalu lihat hasilnya.
 
 ![img5!](assets/img/5/5.png)
 
+## 6. Membuat Hero Panel
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![img6!](assets/img/6/6.png)
+
+
+
 
 
 
