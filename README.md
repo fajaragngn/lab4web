@@ -97,6 +97,18 @@ Lalu lihat hasilnya
 
 ![img10-2!](assets/img/10/10-2.png)
 
+## 11
+
+![img11!](assets/img/11/11.png)
+
+Kemudian tambahkan CSS.
+
+![img11-1!](assets/img/11/11-1.png)
+
+Lalu lihat hasilnya
+
+![img11-2!](assets/img/11/11-2.png)
+
 
 
 
