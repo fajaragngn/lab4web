@@ -118,15 +118,27 @@ Lalu lihat hasilnya
 ## Jawab
 1. Buat html seperti berikut
 
-![imgpraktikum1!](assets/img/praktikum/1.png)
+	![imgpraktikum1!](assets/img/praktikum/1.png)
 
-Kemudian tambahkan CSS.
+	Kemudian tambahkan CSS.
 
-![imgpraktikum1!](assets/img/praktikum/1-1.png)
+	![imgpraktikum1!](assets/img/praktikum/1-1.png)
 
-Lalu lihat hasilnya
+	Lalu lihat hasilnya
 
-![imgpraktikum1!](assets/img/praktikum/1-2.png)
+	![imgpraktikum1!](assets/img/praktikum/1-2.png)
+
+2. Buat html seperti berikut
+
+	![imgpraktikum2!](assets/img/praktikum/2.png)
+
+	Kemudian tambahkan CSS.
+
+	![imgpraktikum2!](assets/img/praktikum/2-1.png)
+
+	Lalu lihat hasilnya
+
+	![imgpraktikum2!](assets/img/praktikum/2-2.png)
 
 
 
