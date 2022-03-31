@@ -62,7 +62,10 @@ Kemudian lihat hasilnya.
 
 ![img6-1!](assets/img/6/6-1.png)
 
+## 7. Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
+![img7!](assets/img/7/7.png)
 
 
 
