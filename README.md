@@ -116,7 +116,7 @@ Lalu lihat hasilnya
 => yang berisi form isian: nama, email, message, dll
 
 ## Jawab
-1. Buat html seperti berikut
+## 1. Buat html seperti berikut
 
 	![imgpraktikum1!](assets/img/praktikum/1.png)
 
@@ -128,7 +128,7 @@ Lalu lihat hasilnya
 
 	![imgpraktikum1!](assets/img/praktikum/1-2.png)
 
-2. Buat html seperti berikut
+## 2. Buat html seperti berikut
 
 	![imgpraktikum2!](assets/img/praktikum/2.png)
 
