@@ -58,6 +58,12 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 
 ![img6!](assets/img/6/6.png)
 
+Kemudian lihat hasilnya.
+
+![img6-1!](assets/img/6/6-1.png)
+
+
+
 
 
 
