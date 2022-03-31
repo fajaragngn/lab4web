@@ -48,6 +48,11 @@ Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
 ![img4-2!](assets/img/4/4-2.png)
 
+## 5. Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi, Lalu lihat hasilnya.
+
+![img5!](assets/img/5/5.png)
+
 
 
 
