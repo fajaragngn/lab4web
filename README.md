@@ -40,6 +40,10 @@ Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya 
 
 ![img4!](assets/img/4/4.png)
 
+Kemudian tulis kode berikut, Lalu buka browser dan lihat hasilnya.
+
+![img4-1!](assets/img/4/4-1.png)
+
 
 
 
