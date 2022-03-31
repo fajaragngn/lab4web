@@ -80,6 +80,11 @@ Lalu lihat hasilnya
 
 ![img8-2!](assets/img/8/8-2.png)
 
+## 9. Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer & Lihat hasilnya
+
+![img9!](assets/img/9/9.png)
+
 
 
 
