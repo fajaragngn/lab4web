@@ -85,6 +85,16 @@ Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer & Lihat hasilny
 
 ![img9!](assets/img/9/9.png)
 
+## 10. Menambahkan Elemen lainnya pada Main Content
+
+![img10!](assets/img/10/10.png)
+
+Kemudian tambahkan CSS.
+
+![img10-1!](assets/img/10/10-1.png)
+
+
+
 
 
 
